@@ -31,16 +31,13 @@ The following EXTRA features are implemented:
 
 Here's a GIF that demos all of the app's implemented features:
 
-GIF created with **your chosen GIF tool**
+GIF created with **ScreenToGif**
+https://submissions.us-east-1.linodeobjects.com/and101/dsuaGi4v.gif
 
-<!-- Recommended tools:
-- [Kap](https://getkap.co/) for macOS
-- [ScreenToGif](https://www.screentogif.com/) for Windows
-- [peek](https://github.com/phw/peek) for Linux. -->
 
 ## Notes
 
-Here's a place for any other notes on the app, it's creation process, or what you learned this unit!
+I learned how to clone, commit and push using Andriod Studio.
 
 ## License
 
