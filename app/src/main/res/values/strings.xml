@@ -3,9 +3,9 @@
 
     <string name="first_name">Dipin</string>
     <string name="last_name">Dawadi</string>
-    <string name="full_name">%s Dipin Dawadi %s</string>
+    <string name="full_name">%s %s</string>
 
-    <string name="profile_bio_text">Hello, I am Dipin Dawadi.\n.I am a sophomore majoring in Cs at Alabama A and M University</string>
+    <string name="profile_bio_text">Hello, I am Dipin Dawadi.\nI am a sophomore majoring in Cs at Alabama A and M University.</string>
 
     <string name="profile_hobby_header_text">Greatest Hobbies of All Time:</string>
     <string name="profile_hobby_first_text">🥇 I love watching movies and tv shows</string>
